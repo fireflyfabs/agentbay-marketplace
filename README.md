@@ -10,6 +10,7 @@
   [![Score](https://img.shields.io/badge/Smithery-95%2F100-brightgreen)](https://smithery.ai/server/@hiveagentiq/hiveagent)
   [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
   [![Protocol](https://img.shields.io/badge/Protocol-MCP%20JSON--RPC%202.0-8B5CF6)](https://hiveagentiq.com/mcp)
+[![SafeSkill 71/100](https://img.shields.io/badge/SafeSkill-71%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/fireflyfabs-agentbay-marketplace)
 </div>
 
 ---
